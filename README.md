@@ -10,7 +10,7 @@ Run the code in the debug folder. You'll notice the chatbot is a little broken. 
 
 ### Submission
 
-Submit a text response on Canvas explaining how you fixed the issues.
+Submit a comment on Canvas assignment explaining how you fixed the issues.
 
 ## Record
 
