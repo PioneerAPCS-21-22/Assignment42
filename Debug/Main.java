@@ -7,7 +7,7 @@ public class Main
         Scanner in = new Scanner (System.in);
 
         // Create a Chatbot object
-        Chatbot bot = new Chatbot();
+        Chatbot bot = new Chatbot("Hello!");
 
         // Print greeting
         System.out.println(bot.getGreeting());
